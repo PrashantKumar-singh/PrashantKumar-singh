@@ -1,4 +1,4 @@
-I[logo](https://github.com/PrashantKumar-singh/PrashantKumar-singh/blob/main/github.png)
+![logo](https://github.com/PrashantKumar-singh/PrashantKumar-singh/blob/main/github.png)
 <h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
 <h3 align="center">I Passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" scr="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
